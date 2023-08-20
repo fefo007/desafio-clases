@@ -1,0 +1,8 @@
+setup.py
+paquete_clase_persona_cliente/__init__.py
+paquete_clase_persona_cliente/class_client.py
+paquete_clase_persona_cliente/class_person.py
+paquete_clase_persona_cliente.egg-info/PKG-INFO
+paquete_clase_persona_cliente.egg-info/SOURCES.txt
+paquete_clase_persona_cliente.egg-info/dependency_links.txt
+paquete_clase_persona_cliente.egg-info/top_level.txt
